@@ -5,12 +5,12 @@ Hello! I'm Joseph, a versatile programmer with a unique journey through the real
 Transitioning from academia, I spent six years in sales, which broadened my perspective on business and client relations. This experience was invaluable, but my passion for programming prevailed. I rekindled my love for coding, embracing Python, and now I apply these skills professionally at the very sales agency where my corporate journey began.
 
 ### Current Work
-**Professional Role**: Python Developer at [Shupe, Carboni & Associates](https://www.shupecarboni.com), where I integrate programming solutions to enhance business processes.
-**Side Projects**: Founder of [Carboni Technology](https://carbonitech.com), a venture where I explore independent projects and experiment with new technologies.
-**GitHub Contributions**: Actively managing and contributing to repositories under two organizations - Carboni Technology and Shupe, Carboni & Associates.
+- **Professional Role**: Python Developer at [Shupe, Carboni & Associates](https://www.shupecarboni.com), where I integrate programming solutions to enhance business processes.  
+- **Side Projects**: Founder of [Carboni Technology](https://carbonitech.com), a venture where I explore independent projects and experiment with new technologies.  
+- **GitHub Contributions**: Actively managing and contributing to repositories under two organizations - Carboni Technology and Shupe, Carboni & Associates.  
 ### My GitHub Organizations
-**Carboni Technology**: A playground for my coding experiments and freelance projects. Here, I focus on innovative solutions.  
-**Shupe, Carboni & Associates**: This repository showcases the integration of programming in sales and business, reflecting my role in automating and optimizing sales processes.
+- **Carboni Technology**: A playground for my coding experiments and freelance projects. Here, I focus on innovative solutions.  
+- **Shupe, Carboni & Associates**: This repository showcases the integration of programming in sales and business, reflecting my role in automating and optimizing sales processes.
 
 Feel free to reach out to me for collaborations, freelance inquiries, or just a chat about tech and beyond.
 
