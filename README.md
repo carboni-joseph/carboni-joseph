@@ -12,6 +12,9 @@ Transitioning from academia, I spent six years in sales, which broadened my pers
 - **Carboni Technology**: A playground for my coding experiments and freelance projects. Here, I focus on innovative solutions.  
 - **Shupe, Carboni & Associates**: This repository showcases the integration of programming in sales and business, reflecting my role in automating and optimizing sales processes.
 
+### Recent Writings
+- [From Problem to Python: Developing a website monitoring tool](https://discord.com/channels/@me/1015052600133038201/1198826419254460488)
+
 Feel free to reach out to me for collaborations, freelance inquiries, or just a chat about tech and beyond.
 
 - LinkedIn: [Joseph Carboni](https://www.linkedin.com/in/joecarboni/)
