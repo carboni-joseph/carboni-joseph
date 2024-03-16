@@ -14,6 +14,7 @@ Transitioning from academia, I spent six years in sales, which broadened my pers
 
 ### Recent Writings
 - [From Problem to Python: Developing a website monitoring tool](https://pyatl.dev/2024/01/22/from-problem-to-python/)
+- [Named Capture Groups in Python](https://pyatl.dev/2024/03/05/named-capture-groups-in-python/)
 
 Feel free to reach out to me for collaborations, freelance inquiries, or just a chat about tech and beyond.
 
