@@ -13,6 +13,7 @@ Transitioning from academia, I spent six years in sales, which broadened my pers
 - **Shupe, Carboni & Associates**: This repository showcases the integration of programming in sales and business, reflecting my role in automating and optimizing sales processes.
 
 ### Recent Writings
+I am a collaborator with [PyATL](https://pyatl.dev/), contributing my own writings
 - [Beyond Basic Spreadsheets: Crafting Styled Spreadsheets with openpyxl](https://pyatl.dev/2024/03/23/beyond-basic-spreadsheets/)
 - [Named Capture Groups in Python](https://pyatl.dev/2024/03/05/named-capture-groups-in-python/)
 - [From Problem to Python: Developing a website monitoring tool](https://pyatl.dev/2024/01/22/from-problem-to-python/)
