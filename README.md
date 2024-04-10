@@ -13,11 +13,12 @@ Transitioning from academia, I spent six years in sales, which broadened my pers
 - **Shupe, Carboni & Associates**: This repository showcases the integration of programming in sales and business, reflecting my role in automating and optimizing sales processes.
 
 ### Recent Writings
-- [From Problem to Python: Developing a website monitoring tool](https://pyatl.dev/2024/01/22/from-problem-to-python/)
+- [Beyond Basic Spreadsheets: Crafting Styled Spreadsheets with openpyxl](https://pyatl.dev/2024/03/23/beyond-basic-spreadsheets/)
 - [Named Capture Groups in Python](https://pyatl.dev/2024/03/05/named-capture-groups-in-python/)
+- [From Problem to Python: Developing a website monitoring tool](https://pyatl.dev/2024/01/22/from-problem-to-python/)
 
 Feel free to reach out to me for collaborations, freelance inquiries, or just a chat about tech and beyond.
 
 - LinkedIn: [Joseph Carboni](https://www.linkedin.com/in/joecarboni/)
-- Twitter: [@JoeCarboni1](https://twitter.com/JoeCarboni1)
+- X: [@JoeCarboni1](https://twitter.com/JoeCarboni1)
 - Email: <joe@carbonitech.com>
