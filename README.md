@@ -14,6 +14,7 @@ Transitioning from academia, I spent six years in sales, which broadened my pers
 
 ### Recent Writings
 I am a collaborator with [PyATL](https://pyatl.dev/), contributing my own writings
+- [Train and Deploy a Scikit-learn Model](https://pyatl.dev/2024/08/07/train-and-deploy-a-scikit-learn-model/)
 - [Intro to Urwid: A Python library for Terminal User Interfaces](https://pyatl.dev/2024/04/28/intro-to-urwid/)
 - [Beyond Basic Spreadsheets: Crafting Styled Spreadsheets with openpyxl](https://pyatl.dev/2024/03/23/beyond-basic-spreadsheets/)
 - [Named Capture Groups in Python](https://pyatl.dev/2024/03/05/named-capture-groups-in-python/)
