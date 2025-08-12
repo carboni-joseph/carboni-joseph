@@ -6,7 +6,7 @@ Transitioning from academia, I spent six years in sales, which broadened my pers
 
 ### Experience
 - **Carboni Technology**: Founder of [Carboni Technology](https://carbonitech.com), writing bespoke software for business operations.
-- **Shupe, Carboni & Associates** (2014-2025): Partner and Operations Manager at [Shupe, Carboni & Associates](https://www.shupecarboni.com), where I integrated programming solutions to enhance business processes.  
+- **Shupe, Carboni & Associates** (2014-2025): Partner and Operations Manager at [Shupe, Carboni & Associates](https://www.shupecarboni.com), where I integrated solutions to enhance business processes.  
 ### My GitHub Organizations
 - **[Carboni Technology](https://github.com/carbonitech)**
 - **[Shupe, Carboni & Associates](https://github.com/shupe-carboni)** *(archived)*
@@ -14,6 +14,7 @@ Transitioning from academia, I spent six years in sales, which broadened my pers
 ### Writings
 I am a collaborator with [PyATL](https://pyatl.dev/), contributing my own writings
 - [Real World APIs](https://pyatl.dev/2025/08/03/real-world-apis/)
+- [Playing Nice With Power Automate](https://pyatl.dev/2024/10/06/playing-nice-with-power-automate/)
 - [Bitten By Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
 - [Train and Deploy a Scikit-learn Model](https://pyatl.dev/2024/08/07/train-and-deploy-a-scikit-learn-model/)
 - [Intro to Urwid: A Python library for Terminal User Interfaces](https://pyatl.dev/2024/04/28/intro-to-urwid/)
