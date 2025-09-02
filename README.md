@@ -13,6 +13,7 @@ Transitioning from academia, I spent six years in sales, which broadened my pers
 
 ### Writings
 I am a collaborator with [PyATL](https://pyatl.dev/), contributing my own writings
+- [Tracking ROI & Measuring Impact](https://pyatl.dev/2025/09/02/tracking-roi-measuring-impact/)
 - [Real World APIs](https://pyatl.dev/2025/08/03/real-world-apis/)
 - [Playing Nice With Power Automate](https://pyatl.dev/2024/10/06/playing-nice-with-power-automate/)
 - [Bitten By Unicode](https://pyatl.dev/2024/09/01/bitten-by-unicode/)
